@@ -31,7 +31,7 @@
 - `cd personal-website`
 - `python3 main.py`
 
-# Instalation on Windows
+# Installation on Windows
 
 - `git clone https://github.com/lenargasimov/personal-website.git`
 - `cd personal-website`
